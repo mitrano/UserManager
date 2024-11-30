@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "name": "Paulo Caroli",
+      "email": "paulo.caroli@example.com",
+      "description": "Autor do livro 'Lean Inception', referência mundial em métodos ágeis e design de produto. Pioneiro na adoção de técnicas ágeis no Brasil e mentor de diversos profissionais."
+    },
+    {
+      "id": 2,
+      "name": "Rodrigo Yoshima",
+      "email": "rodrigo.yoshima@example.com",
+      "description": "Especialista em Kanban, Lean e métodos ágeis. Reconhecido por suas contribuições na disseminação de práticas de gestão visual e melhoria contínua no Brasil."
+    },
+    {
+      "id": 3,
+      "name": "Carlos Villela",
+      "email": "carlos.villela@example.com",
+      "description": "Engenheiro de software e pioneiro no uso de Extreme Programming (XP) no Brasil. Trabalhou na adoção de práticas como TDD e refatoração em equipes de desenvolvimento."
+    },
+    {
+      "id": 4,
+      "name": "Cláudia Melo",
+      "email": "claudia.melo@example.com",
+      "description": "Líder em tecnologia e métodos ágeis, ex-ThoughtWorks. Contribuiu para o crescimento da comunidade ágil brasileira e para o desenvolvimento de práticas inclusivas em tecnologia."
+    },
+    {
+      "id": 5,
+      "name": "Vinicius Teles",
+      "email": "vinicius.teles@example.com",
+      "description": "Autor do livro 'Implementando XP' e mentor de desenvolvedores na adoção de práticas ágeis. Inspirou equipes a focarem na colaboração e entrega contínua de valor."
+    },
+    {
+      "id": 6,
+      "name": "Danilo Garcia",
+      "email": "danilo.garcia@example.com",
+      "description": "Especialista em engenharia de software e práticas ágeis. Contribuiu para o fortalecimento da cultura DevOps e automação de processos no Brasil."
+    },
+    {
+      "id": 7,
+      "name": "Alexandre Freire",
+      "email": "alexandre.freire@example.com",
+      "description": "Reconhecido por sua liderança em projetos ágeis e seu trabalho em disseminar práticas de Extreme Programming (XP) e Scrum para equipes de alto desempenho."
+    },
+    {
+      "id": 8,
+      "name": "Ana Soares",
+      "email": "ana.soares@example.com",
+      "description": "Defensora da inovação tecnológica e da inclusão de práticas ágeis em startups e grandes corporações. Inspirou equipes a adotar Lean e design thinking."
+    },
+    {
+      "id": 9,
+      "name": "Guilherme Silveira",
+      "email": "guilherme.silveira@example.com",
+      "description": "Fundador da Alura, uma das maiores plataformas de ensino de tecnologia do Brasil. Promoveu a educação em desenvolvimento de software e práticas modernas."
+    },
+    {
+      "id": 10,
+      "name": "Henrique Bastos",
+      "email": "henrique.bastos@example.com",
+      "description": "Promoveu a adoção de práticas de engenharia de software moderna e cultura DevOps. Forte atuação na comunidade Python e em iniciativas de open source."
+    },
+    {
+        "id": 11,
+        "name": "Rafael Zorzal",
+        "email": "rafael.zorzal@puc-rio.br",
+        "description": "Professor da PUC-Rio com doutorado em Ciência da Computação. Especialista em desenvolvimento de software, métodos ágeis e modelagem de sistemas complexos. Atua na formação de engenheiros com enfoque em qualidade e produtividade."
+    },
+    {
+        "id": 12,
+        "name": "Patrícia Machado",
+        "email": "patricia.machado@puc-rio.br",
+        "description": "Professora associada da PUC-Rio, com ampla experiência em métodos ágeis e usabilidade. Coordena projetos de pesquisa em design de software colaborativo e práticas inovadoras no ensino de engenharia de software."
+    },
+    {
+        "id": 13,
+        "name": "Carlos Lucena",
+        "email": "carlos.lucena@puc-rio.br",
+        "description": "Pesquisador sênior e referência em engenharia de software orientada a agentes. Contribuiu significativamente para o uso de métodos ágeis em sistemas distribuídos e para a formação de profissionais da tecnologia na PUC-Rio."
+    },
+    {
+        "id": 14,
+        "name": "Mônica Barcellos",
+        "email": "monica.barcellos@puc-rio.br",
+        "description": "Especialista em práticas ágeis e arquitetura de software, com foco em desenvolvimento sustentável. Professora na PUC-Rio, integra métodos ágeis e DevOps em projetos de pesquisa acadêmica e na indústria."
+    },
+    {
+        "id": 15,
+        "name": "André Santanchè",
+        "email": "andre.santanche@puc-rio.br",
+        "description": "Doutor em Engenharia de Software, pesquisador e professor da PUC-Rio. Reconhecido por sua atuação em metodologias ágeis, análise de sistemas e automação de processos. Contribui para projetos de impacto na academia e na indústria."
+    },
+    {
+        "id": 16,
+        "name": "Renata Araujo",
+        "email": "renata.araujo@puc-rio.br",
+        "description": "Doutora em Sistemas de Informação e professora da PUC-Rio. Atua na aplicação de métodos ágeis em equipes multidisciplinares, com destaque em gerenciamento de projetos ágeis e inovação tecnológica."
+    },
+    {
+        "id": 17,
+        "name": "Fernando Ribeiro",
+        "email": "fernando.ribeiro@puc-rio.br",
+        "description": "Professor e líder de pesquisas em engenharia de software na PUC-Rio. Desenvolve soluções aplicadas com foco em métodos ágeis, melhoria contínua e transformação digital nas organizações."
+    },
+    {
+        "id": 18,
+        "name": "Tatiana Souza",
+        "email": "tatiana.souza@puc-rio.br",
+        "description": "Pesquisadora da PUC-Rio, especializada em práticas ágeis, entrega contínua e integração de DevOps. Contribui para projetos de software colaborativos que unem academia e indústria."
+    },
+    {
+        "id": 19,
+        "name": "Gustavo Pinto",
+        "email": "gustavo.pinto@puc-rio.br",
+        "description": "Doutor em Engenharia de Software e professor da PUC-Rio. Atua em projetos voltados para agilidade organizacional, escalabilidade de métodos ágeis e liderança em equipes técnicas."
+    },
+    {
+        "id": 20,
+        "name": "Isabela Costa",
+        "email": "isabela.costa@puc-rio.br",
+        "description": "Professora da PUC-Rio e especialista em educação em tecnologia. Desenvolve métodos inovadores para ensino de engenharia de software, com foco em Scrum, Kanban e aprendizado baseado em projetos."
+    }     
+
+  ]
+  
